@@ -1,0 +1,1 @@
+Finding specific text using regular expression : The data set for this example is data.txt . In this, we are reading a file data.txt synchronously and storing the content in str . After that we are providing with the pattern to look for in the file.In this case the pattern is man and further we are using regex modifiers
