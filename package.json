@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nvmanhit95/nodejs-30days/issues"
   },
-  "homepage": "https://github.com/nvmanhit95/nodejs-30days#readme"
+  "homepage": "https://github.com/nvmanhit95/nodejs-30days#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
